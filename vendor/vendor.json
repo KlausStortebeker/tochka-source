@@ -680,9 +680,9 @@
 			"revisionTime": "2019-02-09T17:16:25Z"
 		},
 		{
-			"path": "qxklmrhx7qkzais6.onion/Tochka/tochka-free-market",
+			"path": "../tochka-free-market",
 			"revision": ""
 		}
 	],
-	"rootPath": "qxklmrhx7qkzais6.onion/Tochka/tochka-free-market"
+	"rootPath": "../tochka-free-market"
 }
