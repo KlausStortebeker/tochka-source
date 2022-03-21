@@ -6,7 +6,7 @@ import (
 	"strconv"
 
 	"github.com/gocraft/web"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"../modules/util"
 )
 
 func (c *Context) ViewStaffListSupportTickets(w web.ResponseWriter, r *web.Request) {

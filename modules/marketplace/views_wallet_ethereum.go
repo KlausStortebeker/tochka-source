@@ -7,7 +7,7 @@ import (
 	btcqr "github.com/GeertJohan/go.btcqr"
 	"github.com/dchest/captcha"
 	"github.com/gocraft/web"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"../modules/util"
 )
 
 func (c *Context) EthereumWalletRecieve(w web.ResponseWriter, r *web.Request) {

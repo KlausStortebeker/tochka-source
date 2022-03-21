@@ -13,7 +13,7 @@ import (
 
 	"github.com/dustin/go-humanize"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/settings"
+	"../modules/settings"
 )
 
 /*

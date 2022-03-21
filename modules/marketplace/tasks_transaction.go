@@ -4,7 +4,7 @@ import (
 	"github.com/helloyi/go-waitgroup"
 	"github.com/robfig/cron"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"../modules/util"
 )
 
 // TaskCleanInactiveReservations is a cron job that runs every 5 minutes.

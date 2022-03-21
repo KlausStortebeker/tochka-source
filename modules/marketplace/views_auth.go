@@ -14,8 +14,8 @@ import (
 	"github.com/mojocn/base64Captcha"
 	"github.com/skip2/go-qrcode"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/apis"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"../modules/apis"
+	"../modules/util"
 )
 
 func (c *Context) UserAvatar(w web.ResponseWriter, r *web.Request) {

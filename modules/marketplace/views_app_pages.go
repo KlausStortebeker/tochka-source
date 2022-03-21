@@ -3,7 +3,7 @@ package marketplace
 import (
 	"github.com/gocraft/web"
 	"net/http"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"../modules/util"
 )
 
 func (c *Context) ViewAppDownload(w web.ResponseWriter, r *web.Request) {

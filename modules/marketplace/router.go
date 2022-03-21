@@ -3,7 +3,7 @@ package marketplace
 import (
 	"github.com/gocraft/web"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/settings"
+	"../modules/settings"
 )
 
 func ConfigureRouter(router *web.Router) *web.Router {

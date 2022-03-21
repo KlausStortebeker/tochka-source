@@ -3,7 +3,7 @@ package marketplace
 import (
 	"github.com/gocraft/web"
 	"math/rand"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"../modules/util"
 )
 
 func (c *Context) listOfferItems(w web.ResponseWriter, r *web.Request) {

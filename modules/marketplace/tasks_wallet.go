@@ -3,7 +3,7 @@ package marketplace
 import (
 	"github.com/jasonlvhit/gocron"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"../modules/util"
 )
 
 func TaskUpdateRecentBitcoinWallets() {

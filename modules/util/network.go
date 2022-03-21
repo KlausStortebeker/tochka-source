@@ -11,7 +11,7 @@ import (
 
 	"golang.org/x/net/proxy"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/settings"
+	"../modules/settings"
 )
 
 var (

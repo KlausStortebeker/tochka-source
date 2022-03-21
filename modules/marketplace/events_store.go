@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/apis"
+	"../modules/apis"
 )
 
 func EventNewTrustedStoreRequest(store Store) {

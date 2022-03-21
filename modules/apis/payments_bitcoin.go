@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/url"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"../modules/util"
 )
 
 type BTCPayment struct {
