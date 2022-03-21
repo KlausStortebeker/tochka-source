@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/marketplace"
-	_ "qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"../../modules/marketplace"
+	_ "../../modules/util"
 )
 
 func manageRole(username, action, role string) {
