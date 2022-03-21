@@ -4,15 +4,15 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/gocraft/web"
+	"../../market/vendor/gocraft/web"
 	// "github.com/gorilla/csrf"
 	// "github.com/NYTimes/gziphandler"
-	"github.com/jasonlvhit/gocron"
+	"../../market/vendor/jasonlvhit/gocron"
 	// "github.com/valyala/fasthttp"
 	// "github.com/valyala/fasthttp/fasthttpadaptor"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/marketplace"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/settings"
+	"../../market/modules/marketplace"
+	"../../market/modules/settings"
 )
 
 var (
