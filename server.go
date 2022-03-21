@@ -4,15 +4,15 @@ import (
 	"fmt"
 	"net/http"
 
-	"../../market/vendor/gocraft/web"
+	"../../vendor/gocraft/web"
 	// "github.com/gorilla/csrf"
 	// "github.com/NYTimes/gziphandler"
-	"../../market/vendor/jasonlvhit/gocron"
+	"../../vendor/jasonlvhit/gocron"
 	// "github.com/valyala/fasthttp"
 	// "github.com/valyala/fasthttp/fasthttpadaptor"
 
-	"../../market/modules/marketplace"
-	"../../market/modules/settings"
+	"../../modules/marketplace"
+	"../../modules/settings"
 )
 
 var (
