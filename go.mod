@@ -25,7 +25,7 @@ require (
 	github.com/lib/pq v0.0.0-20170810061220-e42267488fe3
 	github.com/microcosm-cc/bluemonday v0.0.0-20170830062424-68fecaef6026
 	github.com/mojocn/base64Captcha v0.0.0-20181127071718-e1b77b587119
-	github.com/nfnt/resize v0.0.0-20150527085445-dc93e1b98c57
+	github.com/nfnt/resize 83c6a9932646
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d
 	github.com/o1egl/govatar v0.0.0-20161228215732-b2c74b985e9a
 	github.com/op/go-logging v0.0.0-20150525112648-e8d5414f0947
