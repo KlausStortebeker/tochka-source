@@ -35,7 +35,7 @@ require (
 	github.com/skip2/go-qrcode da1b6568686e
 	github.com/steveyen/gtreap v0.0.0-20150807155958-0abe01ef9be2
 	github.com/wcharczuk/go-chart v2.0.2-0.20181012164330-3cb33d48d32d+incompatible
-	golang.org/x/crypto v0.0.0-20181203042331-505ab145d0a9
+	golang.org/x/crypto 2c7772ba3064
 	golang.org/x/image v0.0.0-20181116024801-cd38e8056d9b
 	golang.org/x/net v0.0.0-20181217023233-e147a9138326
 	golang.org/x/sys a9b59b0215f8
