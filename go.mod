@@ -29,7 +29,7 @@ require (
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d
 	github.com/o1egl/govatar v0.0.0-20161228215732-b2c74b985e9a
 	github.com/op/go-logging 970db520ece7
-	github.com/pkg/errors v0.8.1-0.20181023235946-059132a15dd0
+	github.com/pkg/errors v0.9.1
 	github.com/robfig/cron v1.2.0
 	github.com/russross/blackfriday v0.0.0-20170728175326-4048872b16cc
 	github.com/skip2/go-qrcode da1b6568686e
