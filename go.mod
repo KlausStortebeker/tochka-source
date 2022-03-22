@@ -8,7 +8,7 @@ require (
 	github.com/blevesearch/bleve v0.5.1-0.20170901131608-c048833fcdcf
 	github.com/blevesearch/go-porterstemmer v1.0.3
 	github.com/blevesearch/segment v0.8.0
-	github.com/bluele/gcache v0.0.0-20170906030344-6748215c018e
+	github.com/bluele/gcache v0.0.2
 	github.com/boltdb/bolt v1.3.2-0.20170907202052-fa5367d20c99
 	github.com/dustin/go-humanize v0.0.0-20170828050815-79e699ccd02f
 	github.com/eknkc/amber cdade1c07385
