@@ -19,7 +19,7 @@ require (
 	github.com/gorilla/securecookie v1.1.1
 	github.com/gorilla/sessions v0.0.0-20170802141718-b61c93cb7f67
 	github.com/helloyi/go-waitgroup v0.0.0-20160615100538-a09c6174929d
-	github.com/jasonlvhit/gocron v0.0.0-20180312192515-54194c9749d4
+	github.com/jasonlvhit/gocron v0.0.1
 	github.com/jinzhu/gorm v0.0.0-20170904143919-b1885a643b49
 	github.com/jinzhu/inflection v0.0.0-20170102125226-1c35d901db3d
 	github.com/lib/pq v0.0.0-20170810061220-e42267488fe3
