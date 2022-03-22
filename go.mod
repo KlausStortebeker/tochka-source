@@ -38,5 +38,5 @@ require (
 	golang.org/x/crypto v0.0.0-20181203042331-505ab145d0a9
 	golang.org/x/image v0.0.0-20181116024801-cd38e8056d9b
 	golang.org/x/net v0.0.0-20181217023233-e147a9138326
-	golang.org/x/sys v0.0.0-20190209173611-3b5209105503
+	golang.org/x/sys a9b59b0215f8
 )
