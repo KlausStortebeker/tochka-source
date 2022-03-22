@@ -11,7 +11,7 @@ require (
 	github.com/bluele/gcache v0.0.0-20170906030344-6748215c018e
 	github.com/boltdb/bolt v1.3.2-0.20170907202052-fa5367d20c99
 	github.com/dustin/go-humanize v0.0.0-20170828050815-79e699ccd02f
-	github.com/eknkc/amber v0.0.0-20150505185407-ee5a5b8364bb
+	github.com/eknkc/amber cdade1c07385
 	github.com/essentialkaos/translit v2.0.1-0.20180609230813-d62c0f98f9b3+incompatible
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
 	github.com/golang/protobuf v0.0.0-20170902000452-17ce1425424a
