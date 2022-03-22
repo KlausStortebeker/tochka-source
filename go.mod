@@ -6,7 +6,7 @@ require (
 	github.com/GeertJohan/go.btcqr 51060f23859e
 	github.com/alexedwards/scs v1.4.1
 	github.com/blevesearch/bleve v0.5.1-0.20170901131608-c048833fcdcf
-	github.com/blevesearch/go-porterstemmer v1.0.2
+	github.com/blevesearch/go-porterstemmer v1.0.3
 	github.com/blevesearch/segment v0.8.0
 	github.com/bluele/gcache v0.0.0-20170906030344-6748215c018e
 	github.com/boltdb/bolt v1.3.2-0.20170907202052-fa5367d20c99
