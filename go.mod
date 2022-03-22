@@ -3,7 +3,7 @@ module vendor
 go 1.13
 
 require (
-	github.com/GeertJohan/go.btcqr v0.0.0-20140508182640-2e24ce28b4cc
+	github.com/GeertJohan/go.btcqr 51060f23859e
 	github.com/alexedwards/scs v1.4.1
 	github.com/blevesearch/bleve v0.5.1-0.20170901131608-c048833fcdcf
 	github.com/blevesearch/go-porterstemmer v1.0.2
