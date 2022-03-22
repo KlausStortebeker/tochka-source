@@ -5,7 +5,7 @@ go 1.13
 require (
 	github.com/GeertJohan/go.btcqr 51060f23859e
 	github.com/alexedwards/scs v1.4.1
-	github.com/blevesearch/bleve v0.5.1-0.20170901131608-c048833fcdcf
+	github.com/blevesearch/bleve v0.9.0
 	github.com/blevesearch/go-porterstemmer v1.0.3
 	github.com/blevesearch/segment v0.8.0
 	github.com/bluele/gcache v0.0.2
