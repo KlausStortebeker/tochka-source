@@ -1,6 +1,6 @@
 module vendor
 
-go 1.13
+go 1.19
 
 require (
 	github.com/GeertJohan/go.btcqr 51060f23859e
