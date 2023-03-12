@@ -9,7 +9,7 @@ require (
 	github.com/blevesearch/go-porterstemmer v1.0.3
 	github.com/blevesearch/segment v0.8.0
 	github.com/bluele/gcache v0.0.2
-	github.com/boltdb/bolt v1.3.2-0.20170907202052-fa5367d20c99
+	github.com/boltdb/bolt fd01fc79c553
 	github.com/dustin/go-humanize v0.0.0-20170828050815-79e699ccd02f
 	github.com/eknkc/amber cdade1c07385
 	github.com/essentialkaos/translit v2.0.1-0.20180609230813-d62c0f98f9b3+incompatible
