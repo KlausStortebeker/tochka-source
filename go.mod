@@ -27,7 +27,7 @@ require (
 	github.com/mojocn/base64Captcha v0.0.0-20181127071718-e1b77b587119
 	github.com/nfnt/resize 83c6a9932646
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d
-	github.com/o1egl/govatar v0.0.0-20161228215732-b2c74b985e9a
+	github.com/o1egl/govatar v0.4.1
 	github.com/op/go-logging 970db520ece7
 	github.com/pkg/errors v0.8.1-0.20181023235946-059132a15dd0
 	github.com/robfig/cron v1.2.0
